@@ -51,6 +51,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Analyzing the Bundle Size
 
+###App Info
+Use this app to quickly search for and fetch images 
+built using CRA and Unsplash Api
+features:
+Infinity Scroll
+Perfect grid
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
